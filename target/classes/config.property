@@ -1,0 +1,2 @@
+# This is the default config.properties file
+file.name = "cities.xls";
